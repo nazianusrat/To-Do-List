@@ -1,2 +1,3 @@
-TO DO list making Website
-Practicing to do list App by taking help form Youtube. 
+TO DO list Website Practice. 
+
+Practicing "To Do list App" by taking help form Youtube. 
